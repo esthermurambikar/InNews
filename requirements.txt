@@ -4,4 +4,4 @@ urllib3
 streamlit
 beautifulsoup4
 protobuf
-jinja2>
+jinja2
